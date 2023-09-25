@@ -1,0 +1,59 @@
+1. Realice un DF que solicite al usuario 3 valores enteros positivos. El DF debe mostrar un mensaje
+bien sea el caso en el que se afirme que la suma de los cuadrados de los dos primeros valores
+equivale al cuadrado del entero mayor ingresado.
+
+2. DF que solicita al usuario cuatro valores enteros en cualquier orden y luego los imprime en
+cuatro mensajes de mayor a menor y viceversa. Por ejemplo si el usuario ingresa los valores: 32,
+76, 102, 23 el DF imrime mensaje1: 102 – 23, mensaje2: 76 – 32, mensaje3 32 – 76 y mensaje4
+23 -102
+
+3. DF que solicita al usuario un valor entero mayor a tres cifras y muestra impreso en orden
+inverso. Por ejemplo se ingresa el 20345 y se imprime el 54302.
+4. Se requiere un DF que solicita ingresar tres valores numericos enteros, y que
+determine/muestre al usuario si son numeros consecutivos o no.
+
+5. Se requiere un DF que permita ingresar el tercio de diámetro de una circunferencia y que
+muestre el valor de su volumen.
+
+6. DF para sumar los N numero enteros positivos y que arroje el resultado (sin usar bucle FOR).
+
+7. DF que pida al usuario dos números enteros y, que pueda determinar si su suma es par o no.
+
+8. DF que teniendo la ecuación 3x + 2 =y debe solicitar al usuario el valor x, para que su valor en
+y=0
+
+9. DF para sumar los N número enteros positivos y que arroje el resultado (se debe usar bucle
+FOR).
+
+10. DF para solicitar al usuario dos números enteros, luego mediante el uso de bucle For debe
+imprimir los primeros 10 múltiplos e imprimirlos a la vez, unos en forma ascendente y los otros
+múltiplos de forma descendente.
+
+11. DF para ingresar valores enteros hasta encontrar un múltiplo de 17.
+
+12. Df para sumar los primeros 9 múltiplos de 7.
+
+13. DF para mostrar la lista de los primeros n números primos en orden descendente, el usuario
+debe ingresar un valor entero positivo.
+
+14. Df para calcular el valor Área de un hexágono regular con solo el valor de un lado del mismo
+como valor entero ingresado por el usuario. (pista: usa Pitágoras).
+
+15. DF que solicita al usuario un valor entero positivo y seguidamente imprime el primer número
+primo superior.
+
+16. DF que solicita al usuario un valor entero positivo n, y muestra en orden descendente los
+primeros n-valores de la serie Fibonacci.
+
+17. DF que me solicita al usuario dos ángulos de un triángulo, luego imprime el valor del tercero e
+informa si es rectángulo o no.
+
+18. DF que solicita un valor entero positivos y luego imprime cada uno de sus dígitos por
+separados de izquierda a derecha y luego muestra en un último mensaje la suma de los mismo.
+Por ejemplo, se ingresa el 245, se imprimiría primero el 2, luego el 4 después el 5, y por último
+imprime el 11 que corresponde a la suma 2+4+5.
+
+19. DF que solicite los nombre y apellidos cada uno por separado al usuario y luego los concatene,
+debe tenerse en cuenta que una persona puede tener uno o tres nombres o apellidos.
+20. DF que solicita al usuario un valor n entero y como resultado en un mensaje arroja su factorial,
+por ejemplo, si se ingresa el 5, el programa arroja 120 que es el resultado de 1*2*3*4*5
